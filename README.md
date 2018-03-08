@@ -8,7 +8,7 @@ This Repository contains exemplary Notebooks where I had applied similar methods
 
 - Imbalanced Learning in Small Datasets
   - [Diabetes Dataset Notebook](https://github.com/harisyammnv/MasterArbeit/blob/master/Imbalanced_learning_and_noise_layer_Diabetes_dataset.ipynb)
-  - **Best Result:**![Best Result](https://github.com/harisyammnv/MasterArbeit/blob/master/RF_diabetes.png)
+  - **Best Result:**![Best Result](https://github.com/harisyammnv/MasterArbeit/blob/master/RF_diabetes.png){:height="50%" width="50%"}
  
 - Imbalanced Learning in Medium Size Datasets
   - [Credit Card Notebook](https://github.com/harisyammnv/MasterArbeit/blob/master/Imbalanced_learning_and_noise_layer_Credit_Card_Dataset_V2.ipynb)
