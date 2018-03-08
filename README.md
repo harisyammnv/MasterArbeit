@@ -1,4 +1,19 @@
-# MasterArbeit
-The Jupyter notebooks here are work in progress benchmark files for my master thesis.
+# Master Thesis 
+**Topic - Development of Robust Machine Learning Algorithms to deal with Noise and Skewness in very Large Datasets**
 
-Thesis topic is: Development of robust Machine learning models to deal with noise and skewness in large datasets
+- Imbalanced Learning in Small Datasets
+  - [Diabetes Dataset Notebook](https://github.com/harisyammnv/MasterArbeit/blob/master/Imbalanced_learning_and_noise_layer_Diabetes_dataset.ipynb)
+ - ![Best Result](https://github.com/harisyammnv/MasterArbeit/blob/master/RF_diabetes.png)
+ 
+ - Imbalanced Learning in Medium Size Datasets
+  - [Credit Card Notebook](https://github.com/harisyammnv/MasterArbeit/blob/master/Imbalanced_learning_and_noise_layer_Credit_Card_Dataset_V2.ipynb)
+ - ![Best Result](https://github.com/harisyammnv/MasterArbeit/blob/master/XGBoost_credit_card.PNG)
+ 
+  - Imbalanced Learning in Large Datasets
+  - [Forest CoverType Notebook](https://github.com/harisyammnv/MasterArbeit/blob/master/Imbalanced_learning_and_noise_layer_forest_cover_type_dataset.ipynb)
+ - ![Best Result1](https://github.com/harisyammnv/MasterArbeit/blob/master/cnf_cover_type.png)
+ - ![Best Result2](https://github.com/harisyammnv/MasterArbeit/blob/master/results_cover_typr.png)
+ 
+ 
+ 
+ 
