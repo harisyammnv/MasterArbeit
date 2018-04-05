@@ -8,7 +8,7 @@ This Repository contains exemplary Notebooks where I had applied similar methods
 
 - Imbalanced Learning in Small Datasets
   - [Diabetes Dataset Notebook](https://github.com/harisyammnv/MasterArbeit/blob/master/Imbalanced_learning_and_noise_layer_Diabetes_dataset.ipynb)
-  - **Best Result:**![Best Result](https://github.com/harisyammnv/MasterArbeit/blob/master/RF_diabetes.png){:height="50%" width="50%"}
+  - **Best Result:**![Best Result](https://github.com/harisyammnv/MasterArbeit/blob/master/RF_diabetes.png)
  
 - Imbalanced Learning in Medium Size Datasets
   - [Credit Card Notebook](https://github.com/harisyammnv/MasterArbeit/blob/master/Imbalanced_learning_and_noise_layer_Credit_Card_Dataset_V2.ipynb)
@@ -33,6 +33,8 @@ For the forest covertype dataset these above models are applied and the results 
 **NNAR Model Result:** 20% Label+Feature Noise treated with 5-layer neural network with compound noise layer
 ![NNAR result](https://github.com/harisyammnv/MasterArbeit/blob/master/cnf_nnar_model.png)
 
+**Denoising Auto encoder:**
+![dnn result](https://github.com/harisyammnv/MasterArbeit/blob/master/dnn_auto.PNG)
   
  
  
