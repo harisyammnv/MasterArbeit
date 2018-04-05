@@ -5,11 +5,12 @@
 This Repository contains exemplary Notebooks where I had applied similar methods to the real datasets i have worked with in my thesis. These notebooks illustrate how important it is to deal with skewness and noise in datasets.
 
 ## Dealing with Noise and Skewness in the data
-**Imbalanced Learning in the presence of annotation noise**
+**Imbalanced Learning in the presence of annotation noise can be dealt in 2 ways as follows:**
 
-**Noise Models Using Neural Networks with Noise Treatment Layers**
+**Method-1 : Noise Models Using Neural Networks with Noise Treatment Layers**
 ![Network Architecture](https://github.com/harisyammnv/MasterArbeit/blob/master/Noise_models.png)
-**Denoising Auto encoder + MLP with Noise Treatment Layer**
+
+**Method-2: Denoising Auto encoder + MLP with Noise Treatment Layer**
 ![dnn result](https://github.com/harisyammnv/MasterArbeit/blob/master/dnn_auto.PNG)
 
 ## Exemplary Results
